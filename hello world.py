@@ -7,5 +7,8 @@ def main(msg):
 \\ Print a message 
 print(msg)
 
+def secondary():
+    print("new function")
 
 main('Hello people')
+// no longer needs comments
